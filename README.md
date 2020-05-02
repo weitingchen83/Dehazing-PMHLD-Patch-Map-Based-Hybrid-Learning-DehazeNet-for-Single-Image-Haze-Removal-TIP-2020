@@ -2,8 +2,14 @@
 
 Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Sy-Yen Kuo
 
-You can also refer our previous dehazing work "PMS-Net: Robust Haze Removal Based on Patch Map for Single Images" which has been published in CVPR 2019: 
+You can also refer our previous dehazing work "PMS-Net: Robust Haze Removal Based on Patch Map for Single Images" which has been published in CVPR 2019.
+
+Paper:
+http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html
+
+Github:
 https://github.com/weitingchen83/Dehazing-PMS-Net-Robust-Haze-Removal-Based-on-Patch-Map-for-Single-Images-CVPR-2019
+
 
 
 Abstract:
