@@ -18,15 +18,18 @@ To generate the recovered result you need:
 
 Testing
 
+```
 $ python ./predict.py -dataroot ./your_dataroot -datatype datatype -predictpath ./output_path -batch_size batchsize
+```
 
 *datatype default: tif, jpg ,png
 
 Example:
 
+```
 $ python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
 $ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
-
+```
 
 The pretrained model can be downloaded from: https://drive.google.com/drive/folders/1WCn4ioNS4mw3dT45t8dU6xyH23ZlzSAf?usp=sharing
 Please download the pretrained models and put them in the "modelParam" folder.
