@@ -1,4 +1,4 @@
-#PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal (Accepted by IEEE Transaction on Image Processing 2020)
+# PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal (Accepted by IEEE Transaction on Image Processing 2020)
 
 Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Sy-Yen Kuo
 
@@ -24,8 +24,8 @@ $ python ./predict.py -dataroot ./your_dataroot -datatype datatype -predictpath 
 
 Example:
 
-$python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
-$python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
+$ python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
+$ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
 
 
 The pretrained model can be downloaded from: https://drive.google.com/drive/folders/1WCn4ioNS4mw3dT45t8dU6xyH23ZlzSAf?usp=sharing
