@@ -31,8 +31,10 @@ $ python ./predict.py -dataroot ./testImg -predictpath ./p -batch_size 3
 $ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_size 3
 ```
 
-The pretrained model can be downloaded from: https://drive.google.com/drive/folders/1WCn4ioNS4mw3dT45t8dU6xyH23ZlzSAf?usp=sharing
 Please download the pretrained models and put them in the "modelParam" folder.
+The pretrained model can be downloaded from: https://drive.google.com/drive/folders/1WCn4ioNS4mw3dT45t8dU6xyH23ZlzSAf?usp=sharing
+
+
 
 # Citations
 Please cite this paper in your publications if it helps your research.  
