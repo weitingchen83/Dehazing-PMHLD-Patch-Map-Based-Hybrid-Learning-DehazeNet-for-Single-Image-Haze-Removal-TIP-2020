@@ -1,6 +1,6 @@
 # PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal (Accepted by IEEE Transaction on Image Processing 2020)
 
-**Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Sy-Yen Kuo**
+**Wei-Ting Chen, Hao-Yu Feng, Jian-Jiun Ding, Sy-Yen Kuo**  
 [[Paper Download]](https://ieeexplore.ieee.org/document/9094006)
 [[Code Download]](https://github.com/weitingchen83/Dehazing-PMHLD-Patch-Map-Based-Hybrid-Learning-DehazeNet-for-Single-Image-Haze-Removal-TIP-2020)  
 
