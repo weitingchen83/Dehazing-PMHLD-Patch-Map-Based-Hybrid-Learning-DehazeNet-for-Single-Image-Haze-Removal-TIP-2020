@@ -7,14 +7,24 @@ https://ieeexplore.ieee.org/document/9094006
 
 
 
+You can also refer our related works on dehazing:
 
-You can also refer our previous dehazing work "PMS-Net: Robust Haze Removal Based on Patch Map for Single Images" which has been published in CVPR 2019.
+<br>
+1."PMS-Net: Robust Haze Removal Based on Patch Map for Single Images" which has been published in **CVPR 2019**.
 
 Paper:
 http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html
 
 Github:
 https://github.com/weitingchen83/PMS-Net
+
+and
+
+2."JSTASR: Joint Size and Transparency-AwareSnow Removal Algorithm Based on ModifiedPartial Convolution and Veiling Effect Removal" which has been published in **ECCV 2020**.
+
+Paper: 
+
+Github: https://github.com/weitingchen83/JSTASR-DesnowNet-ECCV-2020
 
 # Abstract:
 
