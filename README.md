@@ -14,8 +14,7 @@ Paper:
 http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_PMS-Net_Robust_Haze_Removal_Based_on_Patch_Map_for_Single_CVPR_2019_paper.html
 
 Github:
-https://github.com/weitingchen83/Dehazing-PMS-Net-Robust-Haze-Removal-Based-on-Patch-Map-for-Single-Images-CVPR-2019
-
+https://github.com/weitingchen83/PMS-Net
 
 # Abstract:
 
