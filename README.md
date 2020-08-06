@@ -54,4 +54,14 @@ The pretrained model can be downloaded from: https://drive.google.com/drive/fold
 # Citations
 Please cite this paper in your publications if it helps your research.  
 
+Bibtex:
+```
+@article{chen2020pmhld,
+  title={PMHLD: Patch Map Based Hybrid Learning DehazeNet for Single Image Haze Removal},
+  author={Chen, Wei-Ting and Fang, Hao-Yu and Ding, Jian-Jiun and Kuo, Sy-Yen},
+  journal={IEEE Transactions on Image Processing},
+  year={2020},
+  publisher={IEEE}
+}
 
+```
