@@ -52,7 +52,7 @@ $ python ./predict.py -dataroot ./testImg -datatype tif -predictpath ./p -batch_
 ```
 
 Please download the pretrained models and put them in the "modelParam" folder.
-The pretrained model can be downloaded from: https://drive.google.com/drive/folders/1WCn4ioNS4mw3dT45t8dU6xyH23ZlzSAf?usp=sharing
+The pretrained model can be downloaded from: https://ntucc365-my.sharepoint.com/:f:/g/personal/f05943089_ntu_edu_tw/Ev9MU06Ham5GpiC5plE5ziUBObCXXbz5AbNEx6NqYhAKbg?e=SFCiQx
 
 
 
